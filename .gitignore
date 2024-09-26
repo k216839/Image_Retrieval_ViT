@@ -1,0 +1,6 @@
+__pycache__/
+tools/
+logs/*
+query_images/*
+debug.jpg
+searcher.py

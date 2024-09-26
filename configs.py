@@ -1,0 +1,1 @@
+MODEL_PATH = 'vit-msn'
